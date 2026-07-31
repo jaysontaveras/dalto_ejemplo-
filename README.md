@@ -1,2 +1,2 @@
-# daltoejemplo
-ejemple man
+# repositorio del curso de git 
+ejemplo man
